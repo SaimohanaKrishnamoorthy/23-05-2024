@@ -1,0 +1,4 @@
+num = [10, 20, 30, 40, 50]
+print("Elements of given array: ")
+for i in range(0, len(num)):
+print(num[i]),

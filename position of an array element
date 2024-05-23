@@ -1,0 +1,8 @@
+arr=[18,34,56,75,67,67]
+num=int(input())
+for i in range(len(arr)):
+    if arr[i]==num:
+        print(i)
+else:
+    print("not found")
+       
